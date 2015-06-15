@@ -1,0 +1,20 @@
+#blog{
+    background-color: #e3dad9;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    padding-bottom: 5px;
+    font-family: sans-serif;
+}
+#blogcontent{
+
+    height: 100px;
+    margin-top: 5px;
+    font-family: sans-serif;
+}
+.blogg{
+    width: 50%;
+    height: 100%;
+    margin-left: 20%;
+    margin-top: 1%;
+}
